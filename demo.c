@@ -5,6 +5,7 @@ sudo apt install libgtk-4-dev
 Install on macos:
 brew install pkg-config gtk4
 */
+
 #include <gtk/gtk.h>
 
 static void
